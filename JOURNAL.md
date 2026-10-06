@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 9.1h | 4 |
+| Week 1 | Tier 1 | 9.2h | 4 |
 
 ## Contents
 
@@ -47,7 +47,7 @@ I worked on the PCB more now. I spent a good bit of time designing this shooting
 
 ### 2026-10-06 — Variations!!
 
-**1.2h**
+**1.3h**
 
 Variations!!
 
@@ -56,6 +56,8 @@ I decided that I would use the time I had this morning to work on my skills. Mor
 Last night I read the journal guide. They are asking for alot, not something thats impossible, however it seems like something I would not look forward to. It kinda feels like an ELA class, which is something I want to get away from whilst doing these projects. However I will still try my best to make a nice journal.
 
 I also added a few new decals in different spots to cover up the space from where the compenents where moved.
+
+(edit: changed time from 1.2 - 1.3 because I realized at school that 1.2 is not one hour and 20 minutes, tuesday mornings am i right?)
 
 ![Screenshot 2026-10-06 at 8.40.35 AM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/IqKQ0Du94Pt2vrswBNWS6YhdQDYQ91lM/7d781c3dfb082a1d953a9494d2d0388642d07f6eaf74b8bd68fadff7fbeddb1f.png)
 
