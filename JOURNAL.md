@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 12.45h | 6 |
+| Week 1 | Tier 1 | 14.2h | 6 |
 
 ## Contents
 
@@ -109,7 +109,7 @@ Thanks for reading here are some photos =)
 
 ### 2026-10-09 – Well I think its about time that I submit,
 
-**1.25h**
+**3h**
 
 Well I think its about time that I submit,
 
@@ -119,8 +119,20 @@ I checked my github for any problems. I tried to calculate shipping but I had is
 
 Thanks for reading my last starbie design journal (maybe).
 
+EDIT:
+Yeah i decided i need those 14 hours for my precious bambu labs A1. So i spent a hot minute (like 2 hours) working on cleaning up the star design on all 3 versions as well as putting it on the back of the board. I added a little bit of text saying 'starbie by d3wzy', yeah yeah its not my original idea but whatever. Then i painfully updated all of the github project files and gerbers. Not a fun time, finally im now finishing this week
+
 ![Screenshot 2026-10-09 at 19.33.53](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/IqKQ0Du94Pt2vrswBNWS6YhdQDYQ91lM/73f24263c159e04fa6caa9e19998023205e6c9d35425f730305a42e1a8be606f.png)
 attempt at a banner photo
 
 ![Screenshot 2026-10-09 at 19.29.37](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/IqKQ0Du94Pt2vrswBNWS6YhdQDYQ91lM/2499c96c9dd429a2efc7c7ce3f390d0d7bbd0181c2d143f0dccd014c0353ef9a.png)
 the design with 3d models, i also did it for the left button version.
+
+EDIT IMAGES:
+
+![Screenshot 2026-10-09 at 20.02.55](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/IqKQ0Du94Pt2vrswBNWS6YhdQDYQ91lM/48abb088c62cf9382f16d44140d8fd7928b64f184db8a0c26a86dae8e8490c00.png)
+i dont know what to call this
+![Screenshot 2026-10-09 at 20.03.05](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/IqKQ0Du94Pt2vrswBNWS6YhdQDYQ91lM/731345befe2f07ce31c2fcb5bcdab95b4c8f28bc11e77439707e184d330eee17.png)
+prior to adding design to back
+![Screenshot 2026-10-09 at 20.12.54](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/IqKQ0Du94Pt2vrswBNWS6YhdQDYQ91lM/d24839d38e49a5da5225aec90739f13cab3db34809aa91a21d4bac9cf9996576.png)
+design on back!!
