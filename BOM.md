@@ -20,7 +20,7 @@
 | [Keycaps](https://www.amazon.com/dp/B0CQ2XG16M?th=1) | making keys pleasent to click | 2 | $0.60 | $1.20 | [Amazon](https://www.amazon.com/dp/B0CQ2XG16M?th=1) |
 | [PCB](https://www.jlcpcb.com/) | connecting parts | 1 | $4.00 | $4.00 | [JLCPCB](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$23.02** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$23.02** | — |
+| **Tax & shipping** | — | — | — | **$2.75** | — |
+| **Total** | — | — | — | **$25.77** | — |
 
-$6.98 left of the tier's funding.
+$4.23 left of the tier's funding.
